@@ -36,10 +36,9 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 Microsoft invoices you as a reseller based on the date you have signed
 the CSP contract with them. If you signed this contract on the 7^(th) of
-the month. Each invoice, and the reported usage will be reported over
-the period from the 
+the month. <sup> Each invoice, and the reported usage will be reported over
+the period from the </sup>
 7^(th) 
-{: .lh-20 } 
 up until the 7^(th) of the next month.
 CloudBilling allows you to move away from this period and invoice your
 clients as you want. You can match the calendar month or match the
